@@ -1,2 +1,2 @@
-# Crazy-Taxi-Game-ECE243
+# Crazy-Taxi-Game
 Fun obstacle game on FPGA using VGA graphics that was written in C
